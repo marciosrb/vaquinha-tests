@@ -12,7 +12,3 @@ Projeto Base para Testes - .Net Core
 [Linkedin](https://www.linkedin.com/in/marcos-freire-a73891125/)  
 [Github](https://github.com/marcosfreire) 
 
-###Eu:
-### Geilson Silva
-[Linkedin](https://www.linkedin.com/in/geilsonfidelis/)  
-[Github](https://github.com/geilson25)
